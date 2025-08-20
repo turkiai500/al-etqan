@@ -1,0 +1,14 @@
+{
+  "name": "Al-Etqan",
+  "categories": [
+    {
+      "name": "Main",
+      "items": [
+        {
+          "name": "Home Page",
+          "file": "views/home.html"
+        }
+      ]
+    }
+  ]
+}
